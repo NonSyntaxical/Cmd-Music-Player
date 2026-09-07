@@ -1,2 +1,3 @@
 # Cmd-Music-Player
-One of my oldest projects, might aswell put it up here.
+
+A Very basic CMD based MP3-Player
